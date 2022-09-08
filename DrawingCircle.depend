@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1639043609 source:c:\users\thulani\onedrive\documents\c++ functions\drawingcircle\main.cpp
+	<iostream>
+	"drawingcircle.h"
+
+1639043215 source:c:\users\thulani\onedrive\documents\c++ functions\drawingcircle\drawingcircle.cpp
+	"drawingcircle.h"
+
+1639043143 c:\users\thulani\onedrive\documents\c++ functions\drawingcircle\drawingcircle.h
+	<cmath>
+	<iostream>
+
